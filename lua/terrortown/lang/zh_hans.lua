@@ -2275,7 +2275,7 @@ L.label_execute_command = "执行命令"
 
 -- 2024-05-22
 L.tip38 = "通过按{usekey}可以捡起焦点武器。它会自动丢弃你阻挡的武器。"
-L.tip39 = "你可以在设置菜单中的绑定菜单更改你的按键绑定，通过{helpkey}打开。"
+L.tip39 = "你可以在设置菜单中的绑定菜单更改你的按键绑定，通过 {helpkey} 打开。"
 L.tip40 = "屏幕左侧的图标显示了当前应用于你的物品或状态效果。"
 L.tip41 = "如果你打开你的记分板，侧边栏和键帮助显示额外信息。"
 L.tip42 = "屏幕底部的键帮助显示了那一刻对你可用的相关绑定。"
@@ -2297,5 +2297,8 @@ L.help_round_restart_reset = [[
 L.label_button_level_reset = "重置级别"
 
 L.loadingscreen_round_restart_title = "开始新回合"
-L.loadingscreen_round_restart_subtitle = "你正在{map}上玩"
-L.loadingscreen_round_restart_subtitle_limits = "你在{map}上再玩{rounds}回合或{time}"
+L.loadingscreen_round_restart_subtitle = "你正在 {map} 上玩"
+L.loadingscreen_round_restart_subtitle_limits = "你在 {map} 上再玩 {rounds} 回合或 {time}"
+
+L.round_started = "回合开始"
+L.round_selected = "随机分配角色"
