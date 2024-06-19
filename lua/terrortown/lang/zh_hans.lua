@@ -2299,6 +2299,3 @@ L.label_button_level_reset = "重置级别"
 L.loadingscreen_round_restart_title = "开始新回合"
 L.loadingscreen_round_restart_subtitle = "你正在 {map} 上玩"
 L.loadingscreen_round_restart_subtitle_limits = "你在 {map} 上再玩 {rounds} 回合或 {time}"
-
-L.round_started = "回合开始"
-L.round_selected = "随机分配角色"
